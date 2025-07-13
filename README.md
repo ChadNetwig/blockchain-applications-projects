@@ -31,23 +31,23 @@ This project demonstrates developing and deploying an ERC-721 Token Standard sma
 
 **Contract Deployment in Remix**
 
-<img src="assets/Polygon%20Mumbai-contract-test-results.png" alt="Remix Deployment Results" width="700"/>
+<img src="assets/erc721/Polygon%20Mumbai-contract-test-results.png" alt="Remix Deployment Results" width="700"/>
 
 **Transaction Details**
 
-<img src="assets/Polygon%20Mumbai-polygonscan-transcation-details.png" alt="Polygonscan Transaction Details" width="700"/>
+<img src="assets/erc721/Polygon%20Mumbai-polygonscan-transcation-details.png" alt="Polygonscan Transaction Details" width="700"/>
 
 **Polygonscan Contract Verification**
 
-<img src="assets/Polygon%20Mumbai-polygonscan.png" alt="Polygonscan Verification" width="700"/>
+<img src="assets/erc721/Polygon%20Mumbai-polygonscan.png" alt="Polygonscan Verification" width="700"/>
 
 **Transaction Hash View**
 
-<img src="assets/Polygon%20Mumbai-polygonscan-transaction-hash.png" alt="Transaction Hash" width="700"/>
+<img src="assets/erc721/Polygon%20Mumbai-polygonscan-transaction-hash.png" alt="Transaction Hash" width="700"/>
 
 **Chainlist Polygon Mumbai Network**
 
-<img src="assets/Polygon%20Mumbai-chainlist.png" alt="Chainlist Network Config" width="700"/>
+<img src="assets/erc721/Polygon%20Mumbai-chainlist.png" alt="Chainlist Network Config" width="700"/>
 
 ---
 
