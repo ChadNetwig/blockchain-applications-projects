@@ -191,7 +191,7 @@ You should see output displaying the contract’s `name()`, `symbol()`, and `mes
 
 ## Project 2 – Hyperledger Fabric Private Blockchain and Chaincodes
 
-### Overview
+### Project 2 Overview
 This project demonstrates developing, deploying, and testing a supply chain smart contract (chaincode) on a private Hyperledger Fabric network. The project implements core CRUD operations on products, including creating, updating, transferring ownership, and querying ledger entries.
 
 ---
@@ -215,11 +215,11 @@ This project demonstrates developing, deploying, and testing a supply chain smar
 
 **Hyperledger Fabric Docker Network**
 
-<img src="assets/docker-hyperledger-network.png" alt="Hyperledger Fabric Network Containers" width="700"/>
+<img src="assets/hyperledger/docker-hyperledger-network.png" alt="Hyperledger Fabric Network Containers" width="700"/>
 
 **Chaincode Query Results**
 
-<img src="assets/chaincode-query-results.png" alt="Chaincode Query Output" width="700"/>
+<img src="assets/hyperledger/chaincode-query-results.png" alt="Chaincode Query Output" width="700"/>
 
 ---
 
